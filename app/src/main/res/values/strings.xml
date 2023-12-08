@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Android_auth</string>
+    <string name="app_name">androidauth</string>
     <string name="your_web_client_id">305127622409-n856plqgoi7pra8gqndrfimhe5c4ajak.apps.googleusercontent.com</string>
-    <string name="your_app_client_id">305127622409-tctedbv5m12ipo564uh2acn6pt9f2ik7.apps.googleusercontent.com</string>
+    <string name="your_app_client_id">305127622409-kskvcmkfd7ehrq0islkukah96c13bkg1.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1144688876877464</string>
+    <string name="fb_login_protocol_scheme">fb1144688876877464</string>
+    <string name="facebook_client_token">967a0fd99d98bdee19f7a64ab48f1b4c</string>
+    <string name="line_channelId">2002090266</string>
 </resources>
